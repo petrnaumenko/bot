@@ -13,8 +13,8 @@
 
 1. **Клонируйте репозиторий**:
     ```sh
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/petrnaumenko/bot.git
+    cd bot
     ```
 
 2. **Установите зависимости**:
